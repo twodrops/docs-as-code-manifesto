@@ -5,3 +5,5 @@ The ["Docs as Code" Manifesto](manifesto.md), just like the [Agile Manifesto](ht
 # License
 Copyright (c) Nirmal Sasidharan. All rights reserved.
 Licensed under the MIT License. See [LICENSE](LICENSE).
+
+For images used in the manifesto, see [images.md](images.md).
