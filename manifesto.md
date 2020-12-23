@@ -38,11 +38,11 @@ Documents shall be pushed into a version control system like Git, *if and only i
 Single-sourcing and DRY ("[Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)") principle to write documents once, but publish several times in different formats like PDF, HTML etc. shall be followed. Even programming principles like "[The Principle of Least Knowledge](https://en.wikipedia.org/wiki/Law_of_Demeter)" and "[The Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)" can be applied to writing documents as well.
 
 
-# Writer is in the team
+# Let the writer be in the team
 ![teamwork.svg](assets/teamwork.svg "")
 
- Documents shall not be created by someone and passed on, but rather created collaboratively with the team.
- Going away from the silo culture helps everyone learn from each other, integrates document author more into the team and helps establish the "Docs as Code" methodology.
+Documents shall not be created by someone and passed on, but rather created collaboratively with the team.
+Breaking out of silos and collaborating more thoughtfully helps everyone learn from each other, integrates document author more into the team and helps establish the "Docs as Code" methodology.
 
 
 # Don't write, if you can't publish
