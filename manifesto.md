@@ -15,7 +15,7 @@ The "Docs as Code" Manifesto, just like the [Agile Manifesto](https://agilemanif
 # Humans first, machines second
 ![target.svg](assets/target.svg "")
 
-Documents shall be written in human-readable formats like Markdown, reStructuredText, JSON etc. and not as binary formats or other machine-readable formats like XML.
+Documents shall be written in human-readable formats like Markdown, reStructuredText, YAML etc. and not as binary formats or other machine-readable formats like XML.
 This keeps the documents as close as possible to humans, who shall maintain it.
 
 
