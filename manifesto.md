@@ -42,7 +42,7 @@ Single-sourcing and DRY ("[Don't Repeat Yourself](https://en.wikipedia.org/wiki/
 ![teamwork.svg](assets/teamwork.svg "")
 
  Documents shall not be created by someone and passed on, but rather created collaboratively with the team.
- Going away from the "silo" culture helps everyone learn from each other, integrates document author more into the team and helps establish the "Docs as Code" methodology.
+ Going away from the silo culture helps everyone learn from each other, integrates document author more into the team and helps establish the "Docs as Code" methodology.
 
 
 # Don't write, if you can't publish
@@ -70,5 +70,5 @@ Licensed under the MIT License. See [LICENSE](LICENSE).
 
 >**ATTRIBUTION**
 
-Icons made by [dmitri13](https://www.flaticon.com/authors/dmitri13), [pixelmeetu](https://www.flaticon.com/authors/pixelmeetu) and [freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/). See [images.md](images.md) for more details.
+Icons made by [dmitri13](https://www.flaticon.com/authors/dmitri13), [pixelmeetup](https://www.flaticon.com/authors/pixelmeetup) and [freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/). See [images.md](images.md) for more details.
 
