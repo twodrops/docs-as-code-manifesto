@@ -1,6 +1,6 @@
 # "Docs as Code" Manifesto
 
-The "Docs as Code" Manifesto, just like the [Agile Manifesto](https://agilemanifesto.org/), has been carefully worded to capture the essence of "Docs as Code" methodology in minimum words. The eight principles reads as below:
+The "Docs as Code" Manifesto, just like the [Agile Manifesto](https://agilemanifesto.org/), has been carefully worded to capture the essence of "Docs as Code" methodology in minimum words. The eight principles read as below:
 
 * `Humans first, machines second`
 * `Keep track of changes - like everyone else`
@@ -49,7 +49,7 @@ Single-sourcing and DRY ("[Don't Repeat Yourself](https://en.wikipedia.org/wiki/
 ![photo-album.svg](assets/photo-album.svg "")
 
 Documents shall be written only if it can be published and read by others.
-If the document cannot be read by the ones it is ended for, consider whether it is necessary at all!
+If the document cannot be read by the ones it is intended for, consider whether it is necessary at all!
 
 
 # Write for usability
