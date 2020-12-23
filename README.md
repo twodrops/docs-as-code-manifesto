@@ -1,6 +1,6 @@
 # "Docs as Code" Manifesto
 
-The ["Docs as Code" Manifesto](manifesto.md), just like the [Agile Manifesto](https://agilemanifesto.org/), has been carefully worded to capture the essence of "Docs as Code" methodology in minimum words.
+The ["Docs as Code" Manifesto](MANIFESTO.md), just like the [Agile Manifesto](https://agilemanifesto.org/), has been carefully worded to capture the essence of "Docs as Code" methodology in minimum words.
 
 # Document Status
 
@@ -14,4 +14,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 Copyright (c) Nirmal Sasidharan. All rights reserved.
 Licensed under the MIT License. See [LICENSE](LICENSE).
 
-For images used in the manifesto, see [images.md](images.md).
+For images used in the manifesto, see [images.md](assets/images.md).
