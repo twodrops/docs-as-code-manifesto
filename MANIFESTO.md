@@ -6,7 +6,7 @@ The "Docs as Code" Manifesto, just like the [Agile Manifesto](https://agilemanif
 * `Keep track of changes - like everyone else`
 * `Push iff you can diff`
 * `Write docs once`
-* `Writer is in the team`
+* `Let the writer be in the team`
 * `Don't write, if you can't publish`
 * `Write for usability`
 * `Living docs over comprehensive docs`
@@ -70,5 +70,5 @@ Licensed under the MIT License. See [LICENSE](LICENSE).
 
 >**ATTRIBUTION**
 
-Icons made by [dmitri13](https://www.flaticon.com/authors/dmitri13), [pixelmeetup](https://www.flaticon.com/authors/pixelmeetup) and [freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/). See [images.md](images.md) for more details.
+Icons made by [dmitri13](https://www.flaticon.com/authors/dmitri13), [pixelmeetup](https://www.flaticon.com/authors/pixelmeetup) and [freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/). See [images.md](assets/images.md) for more details.
 
