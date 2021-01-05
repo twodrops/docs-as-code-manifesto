@@ -32,6 +32,16 @@ This keeps the documents open for anyone to collaborate using state-of-the-art b
 Documents shall be pushed into a version control system like Git, *if and only if* it can be easily diff-ed by others, for the changes done.
 
 
+# Make docs functional
+
+If your docs _are_ code, you get the benefits of automated checks.
+
+- Document code in a format that developer tools understand (e.g. doxygen comments that an IDE can display).
+- Write imporant parts of the code such that they read like prose -- i.e. use speaking names and functions that (only) do what you expect from the name.
+- Describe the usage of your code in unit/system tests (which are checked to pass by the CI and thus cannot go stale).
+- Generate architecture overviews from the code, or code from architecture/human readable configuration.
+
+
 # Write docs once
 ![content-writing.svg](assets/content-writing.svg "")
 
@@ -48,8 +58,8 @@ Breaking out of silos and collaborating more thoughtfully helps everyone learn f
 # Don't write, if you can't publish
 ![photo-album.svg](assets/photo-album.svg "")
 
-Documents shall be written only if it can be published and read by others.
-If the document cannot be read by the ones it is intended for, consider whether it is necessary at all!
+Documents shall be written only if they can be published and read by others.
+If the document cannot be read by the intended audience, consider whether it is necessary at all!
 
 
 # Write for usability
@@ -61,7 +71,7 @@ Useability shall be a primary concern while writing documents. Consistency, logi
 # Living docs over comprehensive docs
 ![pulse.svg](assets/pulse.svg "")
 
-A living document which is collaboratively edited, kept up-to-date, always online, tagged and searchable, stored as close as possible to the source code makes more sense than a extensive document which is kept "somewhere" and never updated.
+A living document which is collaboratively edited, kept up-to-date, always online, tagged and searchable and stored as close as possible to the source code makes more sense than a extensive document which is kept "somewhere" and never updated.
 
 >**LICENSE**
 
