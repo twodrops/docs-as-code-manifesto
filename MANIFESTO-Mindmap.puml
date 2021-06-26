@@ -1,6 +1,3 @@
-# docs-as-code Manifesto Mindmap
-
-```plantuml
 @startmindmap docs-as-code-manifesto
 title docs-as-code Manifesto
 skinparam backgroundColor whitesmoke
@@ -23,5 +20,3 @@ skinparam monochrome true
 **** Version documents and code together
 **** Single-sourcing
 **** Continuous Integration/ Continuous Testing/ Continuous Deployment
-@endmindmap
-```
