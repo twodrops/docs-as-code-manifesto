@@ -1,17 +1,20 @@
+> This document is under construction
+
 # docs-as-code Manifesto
 
 The docs-as-code Manifesto, just like the [Agile Manifesto](https://agilemanifesto.org/), has been carefully worded to capture the essence of docs-as-code methodology in minimum words. 
+
+![docs-as-code Manifesto Overview](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/twodrops/docs-as-code-manifesto/feature/manifesto-values-principles-practices/MANIFESTO-Mindmap.puml)
+
 ## docs-as-code Values
+
+### Collaboration
 
 ### Simplicity
 
-### Collaboration
-> Alternative: Ownership or Team Integration
-
 ### Feedback
 
-### Reliability
-> Alternative: Consistency
+### Consistency
 
 ## docs-as-code Principles
 
@@ -34,14 +37,11 @@ The docs-as-code Manifesto, just like the [Agile Manifesto](https://agilemanifes
 ### Keep changes short
 
 ### Version documents and code together
-
 ### Single-sourcing
-
 ### Continuous Integration/ Continuous Testing/ Continuous Deployment
-
 
 
 >**LICENSE**
 
-Copyright (c) Nirmal Sasidharan. All rights reserved.
+Copyright 2021 (c) Nirmal Sasidharan. All rights reserved.
 Licensed under the MIT License. See [LICENSE](LICENSE).
