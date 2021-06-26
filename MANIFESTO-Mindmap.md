@@ -9,8 +9,8 @@ skinparam monochrome true
 * docs-as-code Manifesto
 ** Collaboration
 *** Developers and document creators collaborate
-*** Writers use same tools and processes as developers
 **** Agile team setups
+**** Writers use same tools and processes as developers
 ** Simplicity
 *** Keep documents simple 
 ****  Use a document format that is easy to store, diff, merge and review
