@@ -1,6 +1,6 @@
 # The docs-as-code Manifesto
 
-The [docs-as-code Manifesto](manifesto.md), just like the [Agile Manifesto](https://agilemanifesto.org/), has been carefully worded to capture the essence of docs-as-code methodology in minimum words.
+The "docs-as-code Manifesto", just like the [Agile Manifesto](https://agilemanifesto.org/), has been carefully worded to capture the essence of docs-as-code methodology in minimum words.
 
 The Manifesto can be found [here](manifesto.md)
 
