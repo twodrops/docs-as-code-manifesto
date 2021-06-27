@@ -76,7 +76,7 @@ The docs-as-code Manifesto, just like the [Agile Manifesto](https://agilemanifes
 
 > TODO
 
->**LICENSE**
+**LICENSE**
 
 Copyright 2021 (c) Nirmal Sasidharan. All rights reserved.
 Licensed under the MIT License. See [LICENSE](LICENSE).
